@@ -33,3 +33,5 @@ This system is built with security and reliability in mind, ensuring that every 
 
 ## Installation Guide
 The **Anticheat System** is not publicly released yet. However, when available, follow these steps to set up:
+
+## email: ***0.joehans@gmail.com***
