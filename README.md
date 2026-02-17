@@ -1,2 +1,1 @@
-### NEW ACCOUNT SOON!
 
